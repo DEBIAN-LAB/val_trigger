@@ -1,6 +1,7 @@
 Simple Trigger Bot for Valorant
 Introduction
 This is a simple trigger bot implemented in C++ using the Windows API. It is intended for educational purposes only and should not be used in any game, including Valorant, as it violates the terms of service and fair play principles of the game.
+![putty](https://github.com/user-attachments/assets/3aff7484-56c6-4e86-98af-151caf419463)
 
 Functionality
 The trigger bot continuously checks for a trigger condition, which is typically the presence of an enemy player in the crosshairs. When the trigger condition is met, the bot simulates a mouse click to shoot.
